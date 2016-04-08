@@ -31,7 +31,7 @@ public static class SimpleEditorUtils
         
         //EditorApplication.OpenScene("Assets/stuff/Scenes/__preEverythingScene.unity");
 
-        EditorSceneManager.OpenScene("Assets/Dreamscape/scene1.unity");
+        EditorSceneManager.OpenScene("Assets/Dreamscape/Scenes/start.unity");
 
         
 

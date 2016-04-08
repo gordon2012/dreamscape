@@ -44,7 +44,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void Awake()
         {
-            DontDestroyOnLoad(transform.gameObject);
+            // DontDestroyOnLoad(transform.gameObject);
         }
 
         // Use this for initialization
